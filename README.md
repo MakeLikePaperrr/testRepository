@@ -1,2 +1,4 @@
 # testRepository
-New repository to test GitHub Pages
+New repository to test GitHub Pages.
+
+Updated to understand commit changes locally and directly from GitHub.
