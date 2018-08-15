@@ -5,9 +5,9 @@ Updated to understand commit changes locally and directly from GitHub.
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-<h1> This is an  tag </h1>
-<h2> This is an tag </h2> 
-###### This is an tag </h6>
+# This is an  tag #
+## This is an tag ##
+###### This is an tag ######
   
 *This text will be italic*
 _This will also be italic_
